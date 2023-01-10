@@ -28,6 +28,6 @@ def adjust_colors(img, r, g, b):
 
 new_img = adjust_colors('D:/DUMENYS/DARIUS/Desktop/dog.jpg', 0, 0, +80)
 new_img.show()
-
+new_img.save("D:/DUMENYS/DARIUS/Desktop/bluish_dog.jpg")
 #output
 Process finished with exit code 0
